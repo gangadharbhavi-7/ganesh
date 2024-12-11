@@ -6,7 +6,7 @@
 	box-sizing: border-box;
 }
 :root {
-	--primary-color: #ff7613;
+	--primary-color: #00BFFF;
 	--text-color: #727171;
 }
 html {
@@ -247,7 +247,7 @@ header{
 }
 
 .pin{
-    background-color: orangered;
+    background-color:#00BFFF;
     width:100%;
     height:30px;
     margin-top: 20px;
@@ -278,14 +278,14 @@ header{
 .em{
     font-size:40px;
     margin-bottom:30px;
-    color:#ff7613;
+    color:#00BFFF;
     text-decoration: underline;
 }
 
 .tell{
     font-size: 30px;
     margin-bottom:20px;
-    color:#ff7613;
+    color:#00BFFF;
 }
 
 .bio{
@@ -297,7 +297,7 @@ header{
 
 
 .biod{
-    color:#ff7613;
+    color:#00BFFF;
     margin-bottom: 20px;
 }
 
@@ -312,7 +312,7 @@ header{
 .em{
     font-size: 30px;
     margin-bottom:2px;
-    color:#ff7613;
+    color:#00BFFF;
 }
 
 h1{
