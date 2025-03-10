@@ -40,7 +40,7 @@ header {
     max-width: 600px;
     margin: 20px;
 }
-/*
+
 h1 {
     text-align: center;
 }
@@ -56,7 +56,7 @@ p {
 ul {
     list-style-type: square;
     padding-left: 20px;
-} */
+} 
 .container h1{
 	color: #00BFFF;
 	font-size: 60px;
@@ -74,4 +74,7 @@ h1{
 	font-family: 'Georgia', serif;
  text-transform: uppercase;
 
+}
+p{
+color: pink;
 }
